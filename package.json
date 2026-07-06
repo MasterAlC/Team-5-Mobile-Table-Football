@@ -1,0 +1,27 @@
+{
+  "name": "team-5-mobile-table-football",
+  "version": "1.0.0",
+  "description": "BBD Vac Week 2026",
+  "keywords": [],
+  "homepage": "https://github.com/MasterAlC/Team-5-Mobile-Table-Football#readme",
+  "bugs": {
+    "url": "https://github.com/MasterAlC/Team-5-Mobile-Table-Football/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasterAlC/Team-5-Mobile-Table-Football.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "ws": "^8.21.0"
+  }
+}
